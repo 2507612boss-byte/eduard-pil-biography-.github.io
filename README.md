@@ -1,5 +1,4 @@
-![Проблема](https://github.com/user-attachments/assets/829bca0d-d3e8-4606-8fd8-64a48de022de)
-<meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
+
 
 <div align="right">
   <sup>View this page in: </sup>
